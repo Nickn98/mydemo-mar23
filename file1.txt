@@ -1,3 +1,4 @@
 file 1 content 
 second line 
 second line 
+My third commit -with third line added to file1.txt
